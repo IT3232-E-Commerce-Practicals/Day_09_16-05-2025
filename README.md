@@ -41,9 +41,6 @@ http://localhost:8080/dept
 ]
 ```
 
-#### 🖼 Screenshot:
-*Insert screenshot here*
-
 ---
 
 ### 2. Get Department by ID
@@ -65,8 +62,6 @@ http://localhost:8080/dept
 #### ❌ Failure Response:
 **Code:** 404 NOT FOUND
 
-#### 🖼 Screenshot:
-*Insert screenshot here*
 
 ---
 
@@ -88,8 +83,7 @@ http://localhost:8080/dept
 **Code:** 200 OK  
 **Content:** `New department added`
 
-#### 🖼 Screenshot:
-*Insert screenshot here*
+
 
 ---
 
@@ -115,8 +109,7 @@ http://localhost:8080/dept
 **Code:** 404 NOT FOUND  
 **Content:** `Couldn't find the department`
 
-#### 🖼 Screenshot:
-*Insert screenshot here*
+
 
 ---
 
@@ -134,8 +127,7 @@ http://localhost:8080/dept
 **Code:** 404 NOT FOUND  
 **Content:** `Couldn't find the department`
 
-#### 🖼 Screenshot:
-*Insert screenshot here*
+
 
 ---
 
